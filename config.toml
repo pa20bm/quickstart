@@ -3,7 +3,13 @@ languageCode = "en-us"
 title = "Paul A. Anthony"
 theme = "ananke"
 publishdir = "docs"
+SectionPagesMenu = "main"
+Paginate = 3
+
 
 [params]
-featured_image = "/bookshelf.jpg"
-omit_header_text =  true
+  featured_image = "/bookshelf.jpg"
+  omit_header_text = true
+  description = "History. Religion. Words."
+  twitter = "https://twitter.com/DisorientedBlog"
+  github = "https://github.com/pa20bm"
