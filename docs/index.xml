@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Paul A. Anthony</title>
     <link>https://pa20bm.github.io/quickstart/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Paul A. Anthony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Mar 2021 11:50:50 -0500</lastBuildDate><atom:link href="https://pa20bm.github.io/quickstart/index.xml" rel="self" type="application/rss+xml" />
