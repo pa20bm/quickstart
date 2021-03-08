@@ -5,5 +5,5 @@ theme = "ananke"
 publishdir = "docs"
 
 [params]
-featured_image = "Users/pennywise/Documents/GitHub/quickstart/images/bookshelf.jpg"
+featured_image = "Users/pennywise/Documents/GitHub/quickstart/content/images/bookshelf.jpg"
 omit_header_text =  true
