@@ -1,5 +1,5 @@
 baseURL = "https://pa20bm.github.io/quickstart/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Paul A. Anthony"
+theme = "eureka"
 publishdir = "docs"
