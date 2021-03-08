@@ -3,4 +3,5 @@ languageCode = "en-us"
 title = "Paul A. Anthony"
 theme = "ananke"
 publishdir = "docs"
-featured_image: '/images/bookshelf.jpg'
+featured_image = "/images/bookshelf.jpg"
+Paginate = 3
