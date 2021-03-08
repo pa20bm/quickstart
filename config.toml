@@ -4,4 +4,5 @@ title = "Paul A. Anthony"
 theme = "ananke"
 publishdir = "docs"
 featured_image = "/images/bookshelf.jpg"
+omit_header_text =  true
 Paginate = 3
