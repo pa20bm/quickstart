@@ -1,5 +1,5 @@
 baseURL = "https://pa20bm.github.io/quickstart/"
 languageCode = "en-us"
 title = "Paul A. Anthony"
-theme = "eureka"
+theme = "ananke"
 publishdir = "docs"
